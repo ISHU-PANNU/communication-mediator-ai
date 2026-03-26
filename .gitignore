@@ -1,0 +1,16 @@
+# API keys - never commit these
+.env
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Model files (too large for github)
+*.safetensors
+
+# Feedback data
+feedback_data.csv
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
