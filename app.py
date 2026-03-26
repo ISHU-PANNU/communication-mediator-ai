@@ -1,3 +1,10 @@
+from dotenv import load_dotenv
+load_dotenv()  # reads .env file
+
+
+
+
+
 # ── Imports ────────────────────────────────────────────────
 import os, re, csv, torch
 from datetime import datetime

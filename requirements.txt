@@ -5,3 +5,4 @@ vaderSentiment
 gradio
 nltk
 scikit-learn
+python-dotenv
