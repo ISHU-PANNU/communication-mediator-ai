@@ -1,6 +1,5 @@
 ---
 title: Communication Mediator AI
-emoji: 🧠
 colorFrom: green
 colorTo: blue
 sdk: gradio
@@ -9,7 +8,7 @@ app_file: app.py
 pinned: true
 ---
 
-# 🧠 Communication Mediator AI
+#  Communication Mediator AI
 
 > Detects anxious, avoidant & aggressive communication patterns  
 > and rewrites them into healthy communication using NLP + LLM.
